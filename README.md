@@ -1,5 +1,5 @@
 # Csharp_Senai
-Material Produzido nas aulas de C# no Senai-SP
+Material produzido nas aulas de C# no Senai-SP
 
 
 ## Códigos
