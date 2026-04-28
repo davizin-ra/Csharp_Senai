@@ -1,0 +1,14 @@
+C:\Users\fic\Documents\InicioCsharp\bin\Debug\net8.0\InicioCsharp.exe
+C:\Users\fic\Documents\InicioCsharp\bin\Debug\net8.0\InicioCsharp.deps.json
+C:\Users\fic\Documents\InicioCsharp\bin\Debug\net8.0\InicioCsharp.runtimeconfig.json
+C:\Users\fic\Documents\InicioCsharp\bin\Debug\net8.0\InicioCsharp.dll
+C:\Users\fic\Documents\InicioCsharp\bin\Debug\net8.0\InicioCsharp.pdb
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.AssemblyInfo.cs
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.dll
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\refint\InicioCsharp.dll
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.pdb
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\InicioCsharp.genruntimeconfig.cache
+C:\Users\fic\Documents\InicioCsharp\obj\Debug\net8.0\ref\InicioCsharp.dll
