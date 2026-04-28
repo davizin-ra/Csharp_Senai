@@ -11,17 +11,17 @@ dotnet run
 
 ## Aulas
 
-### Aula - 01
+#### Aula - 01
 Introdução ao curso SENAI e apresentação básica das técnologias.
 
-### Aula - 02
+#### Aula - 02
 Lógica de programação e fluxogramas
 
-### Aula - 03
+#### Aula - 03
 Variáveis e operações C#
 
-### Aula - 04
+#### Aula - 04
 Correção Aula03 e git/github
 
-### Aula - 05
+#### Aula - 05
 Condicionais C#
