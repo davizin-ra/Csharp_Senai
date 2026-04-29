@@ -4,9 +4,11 @@ Material produzido nas aulas de C# no Senai-SP
 
 ## Códigos
 
-dotnet new console --use-program-main
+    dotnet new console --use-program-main
 
-dotnet run
+  <div/>
+    
+    dotnet run
 
 #### [Comandos Git](https://sparkling-link-662.notion.site/Git-GitHub-32716837961280d1ae28dad3574c4da0)
 
@@ -26,3 +28,6 @@ Correção Aula03 e git/github
 
 #### Aula - 05
 Condicionais C#
+
+#### Aula - 06
+Estruturas de repetição
