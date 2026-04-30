@@ -31,3 +31,6 @@ Condicionais C#
 
 #### Aula - 06
 Estruturas de repetição
+
+#### Aula - 07
+Funções do C#, criação de funções e Arrays
