@@ -21,8 +21,7 @@ https://sparkling-link-662.notion.site/Exerc-cios-de-Repeti-o-35116837961280569b
 
     int num = 5;
 
-    do
-    {
+    do{
         Console.WriteLine("Digite um número");
         num = int.Parse(Console.ReadLine());
     }
