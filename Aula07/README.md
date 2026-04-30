@@ -8,7 +8,7 @@
 
     MostrarMensagem();
 
-## Função com paramâtro
+## Função com parâmetro
 
     static void Saudacao(string nome){
         Console.WriteLine($"Olá, {nome}");
