@@ -33,4 +33,7 @@ Condicionais C#
 Estruturas de repetição
 
 #### Aula - 07
-Funções do C#, criação de funções e Arrays
+Funções, Arrays, Funções internas e List
+
+#### Aula - 08
+Programação Orientada a Objeto
