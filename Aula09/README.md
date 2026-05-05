@@ -58,9 +58,7 @@ Mudando método virtual emitirSom()
 
 A classe Animal só poderá ser utilizada como herança (: Animal), e não pode ser instanciada
 
-    public abstract void comer(){
-        Console.WriteLine($"Comendo...");
-    }
+    public abstract void comer();
 
 Quando criar um método abstract ele é OBRIGATÓRIO ser chamado na classe filho com override
 
