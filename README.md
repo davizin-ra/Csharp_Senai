@@ -36,4 +36,7 @@ Estruturas de repetição
 Funções, Arrays, Funções internas e List
 
 #### Aula - 08
-Programação Orientada a Objeto
+Programação Orientada a Objeto - Base e Herança
+
+#### Aula - 09
+POO - Pilares (Abstração, Encapsulamento, Herança e Polimorfismo)
