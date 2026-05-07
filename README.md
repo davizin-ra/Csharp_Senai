@@ -43,3 +43,6 @@ POO - Pilares (Abstração, Encapsulamento, Herança e Polimorfismo)
 
 #### Aula - 10
 Projetos / Exercícios aplicando os pilares da POO [link](https://sparkling-link-662.notion.site/Atividades-C-29a16837961280348040e36519ef1db9)
+
+#### Aula - 11
+Introdução da API
