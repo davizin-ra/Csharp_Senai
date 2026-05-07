@@ -42,4 +42,4 @@ Programação Orientada a Objeto - Base e Herança
 POO - Pilares (Abstração, Encapsulamento, Herança e Polimorfismo)
 
 #### Aula - 10
-Projeto aplicando os pilares da POO
+Projetos / Exercícios aplicando os pilares da POO
