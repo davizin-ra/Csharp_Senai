@@ -1,0 +1,42 @@
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.exe
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.deps.json
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\bin\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\refint\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ProjetoLanchonete.genruntimeconfig.cache
+C:\Users\fic\Downloads\Csharp\ProjetoLanchonete\obj\Debug\net8.0\ref\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\refint\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Downloads\Csharp\Aula10\bin\Debug\net8.0\ProjetoLanchonete.exe
+C:\Users\fic\Downloads\Csharp\Aula10\bin\Debug\net8.0\ProjetoLanchonete.deps.json
+C:\Users\fic\Downloads\Csharp\Aula10\bin\Debug\net8.0\ProjetoLanchonete.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\Aula10\bin\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10\bin\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ProjetoLanchonete.genruntimeconfig.cache
+C:\Users\fic\Downloads\Csharp\Aula10\obj\Debug\net8.0\ref\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\bin\Debug\net8.0\ProjetoLanchonete.exe
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\bin\Debug\net8.0\ProjetoLanchonete.deps.json
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\bin\Debug\net8.0\ProjetoLanchonete.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\bin\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\bin\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\refint\ProjetoLanchonete.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.pdb
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ProjetoLanchonete.genruntimeconfig.cache
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Lanchonete\obj\Debug\net8.0\ref\ProjetoLanchonete.dll
