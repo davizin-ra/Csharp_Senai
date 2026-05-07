@@ -1,0 +1,28 @@
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.exe
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.deps.json
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.pdb
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\refint\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.pdb
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.genruntimeconfig.cache
+C:\Users\fic\Downloads\Csharp\Projeto Sistema de cursos\obj\Debug\net8.0\ref\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\refint\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.pdb
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.exe
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.deps.json
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.dll
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\bin\Debug\net8.0\Projeto Sistema de cursos.pdb
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\Projeto Sistema de cursos.genruntimeconfig.cache
+C:\Users\fic\Downloads\Csharp\Aula10 - Projeto Sistema de cursos\obj\Debug\net8.0\ref\Projeto Sistema de cursos.dll
