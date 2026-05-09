@@ -46,3 +46,6 @@ Projetos / Exercícios aplicando os pilares da POO [link](https://sparkling-link
 
 #### Aula - 11
 Introdução da API
+
+#### Aula - 12
+Desenvolvimento da [Api Biblioteca](https://github.com/davizin-ra/ApiBiblioteca_Senai)
