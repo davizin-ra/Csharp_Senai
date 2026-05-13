@@ -24,7 +24,7 @@ Lógica de programação e fluxogramas
 Variáveis e operações C#
 
 #### Aula - 04
-Correção Aula03 e git/github
+Correção da [Aula - 03](Aula03) e git/github
 
 #### [Aula - 05](Aula05)
 Condicionais C#
@@ -45,7 +45,7 @@ POO - Pilares (Abstração, Encapsulamento, Herança e Polimorfismo)
 Projetos / Exercícios aplicando os pilares da POO [link](https://sparkling-link-662.notion.site/Atividades-C-29a16837961280348040e36519ef1db9)
 
 #### Aula - 11
-Introdução da API
+Introdução sobre API
 
 #### Aula - 12
 Desenvolvimento da [Api Biblioteca](https://github.com/davizin-ra/ApiBiblioteca_Senai)
