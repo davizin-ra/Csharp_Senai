@@ -17,31 +17,31 @@ Material produzido nas aulas de C# no Senai SP - São Caetano do Sul
 #### Aula - 01
 Introdução ao curso SENAI e apresentação básica das técnologias.
 
-#### Aula - 02
+#### [Aula - 02](Aula02)
 Lógica de programação e fluxogramas
 
-#### Aula - 03
+#### [Aula - 03](Aula03)
 Variáveis e operações C#
 
 #### Aula - 04
 Correção Aula03 e git/github
 
-#### Aula - 05
+#### [Aula - 05](Aula05)
 Condicionais C#
 
-#### Aula - 06
+#### [Aula - 06](Aula06)
 Estruturas de repetição
 
-#### Aula - 07
+#### [Aula - 07](Aula07)
 Funções, Arrays, Funções internas e List
 
-#### Aula - 08
+#### [Aula - 08](Aula08)
 Programação Orientada a Objeto - Base e Herança
 
-#### Aula - 09
+#### [Aula - 09](Aula09)
 POO - Pilares (Abstração, Encapsulamento, Herança e Polimorfismo)
 
-#### Aula - 10
+#### [Aula - 10](https://github.com/davizin-ra/Csharp_Senai/tree/main/Aula10%20-%20Projeto%20Sistema%20de%20cursos)
 Projetos / Exercícios aplicando os pilares da POO [link](https://sparkling-link-662.notion.site/Atividades-C-29a16837961280348040e36519ef1db9)
 
 #### Aula - 11
@@ -49,3 +49,9 @@ Introdução da API
 
 #### Aula - 12
 Desenvolvimento da [Api Biblioteca](https://github.com/davizin-ra/ApiBiblioteca_Senai)
+
+#### Aula - 13
+Desenvolvimento da [Api Produtos](https://github.com/davizin-ra/ApiProdutos_Senai)
+
+#### Aula - 14
+Desenvolvimento do [Jogo da cobrinha em C#](https://github.com/davizin-ra/JogoCobrinha_Senai)
