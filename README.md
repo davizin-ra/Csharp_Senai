@@ -1,6 +1,8 @@
 # Csharp_Senai
 Material produzido nas aulas de C# no Senai SP - São Caetano do Sul
 
+#### [Tudo que foi abordado](https://sparkling-link-662.notion.site/Gloss-rio-do-Dev-em-C-35016837961280babda8d46ffa3b9e80) - Glossário do Dev em C#
+
 
 ## Códigos
 
